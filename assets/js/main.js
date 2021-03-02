@@ -11,12 +11,12 @@ fetch('https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/ri
             response.json().then(function(data) {
 
                 ricette = data.ricette;               
-                creaListaCorsi(corsi);
+                creaListaRicette(ricette);
             });
         }
     )
 
-function creaListaCorsi(ricette) {
+function creaListaRicette(ricette) {
 
     for (let i = 0; i < ricette.length; i++) {
         let ricetta = '<div class="anteprima_ricette" onclick="infoRicetta(' + i + ')">' +
