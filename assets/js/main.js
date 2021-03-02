@@ -1,5 +1,5 @@
 let ricette = "";
-fetch('https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/ricette.json')
+fetch('https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/master/ricette.json')
     .then(
         function(response) {
             if (response.status !== 200) {
