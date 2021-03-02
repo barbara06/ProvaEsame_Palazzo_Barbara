@@ -46,7 +46,7 @@ function infoRicetta(id) {
 }
 
 
-function nascondiInfoCorso() {
+function nascondiInfoRicetta() {
     $("#info_ricetta").hide();
 
 }
