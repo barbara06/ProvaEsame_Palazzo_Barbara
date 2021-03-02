@@ -1,0 +1,39 @@
+{
+    "ricette": [
+        {
+            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/main/assets/img/tartufini.jpg",
+            "nome": "Tartufini di formaggio ai quattro colori",
+            "livello": "Facile",
+            "panoramica": "Li conosciamo in tante versioni dolci: i tartufini al cioccolato, al caffè, al limone. Ecco una versione perfetta per il buffet salato: i tartufini di formaggio ai 4 colori! Stuzzichini gustosissimi di facile e veloce realizzazione.",
+            "preparazione": "15 min",
+            "dosi": "50 pezzi",            
+            "ingredienti": "<h3>INGREDIENTI PER 50 PALLINE</h3><ul><li>Ricotta vaccina 200 g</li><li>Fontina 50 g</li><li>Gorgonzola 50 g</li><li>Grana Padano DOP (da grattugiare) 50 g</li><li>Groviera 50 g</li></ul><h3>PER RICOPRIRE</h3><ul><li>Semi di sesamo 2 cucchiai</li><li>Semi di papavero 2 cucchiai</li><li>Erba cipollina da tritare 2 cucchiai</li><li>Peperoncino in polvere dolce 2 cucchiai</li></ul>",
+            "procedimento": "Per preparare i tartufini al formaggio: togliete la crosta ai formaggi che la possiedono e tagliate a pezzetti la fontina e il groviera. Metteteli in un mixer e tritateli finemente per qualche minuto, poi aggiungete la ricotta, il gorgonzola e il Grana Padano DOP grattugiato e riprendete a frullare per altri due minuti, finchè il composto abbia una aspetto cremoso e omogeneo.<br>Mettete poi la crema ottenuta in un contenitore munito di coperchio e ponetelo in frigo per almeno un paio d’ore. Preparate quattro ciotoline, nelle quali porrete separatamente, l’erba cipollina tritata, i semi di papavero, i semi di sesamo e la polvere di peperoncino dolce (o paprika).<br>Trascorso il tempo necessario, togliete il composto di formaggio dal frigorifero, e con l’aiuto di un cucchiaino, prelevate ogni volta una quantità tale di crema di formaggio da formare, con i palmi delle mani, delle palline poco più grandi di una nocciola, che farete rotolare, alternativamente, nelle 4 ciotoline precedentemente preparate.<br>Posizionate i tartufini già pronti su di un piatto da portata oppure in simpatiche pirottine.",
+            "tag": "Light, Ricotta, Gorgonzola"
+        },
+
+        {
+            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/main/assets/img/cheesecake.jpg",
+            "nome": "Cheesecake leggera",
+            "livello": "Media",
+            "panoramica": "La cheesecake leggera è una ricetta light adatto per chi vuole rimanere in forma senza rinunciare al gusto! Questa cheesecake è preparata con ingredienti a basso contenuto calorico, ha un sapore fresco ed è davvero facile da preparare. Il gusto dello yogurt, che ritroverete in altre ricette light come quella dei pancake, rende la cheesecake leggera un dessert light, digeribile e con poche calorie!",
+            "preparazione": "30 min + 4 ore di riposo",
+            "dosi": "10 persone",            
+            "ingredienti": "<h3>INGREDIENTI PER LA BASE DI 24 CM DI DIAMETRO</h3><ul><li>Biscotti secchi integrali 180 g</li><li>Burro light 80 g</li></ul><h3>PER LA CREMA</h3><ul><li>Formaggio fresco spalmabile light 500 g</li><li>Yogurt magro 250 g</li><li>Fruttosio 160 g</li><li>Gelatina in fogli 10 g</li><li>Acqua 30 g</li><li>Baccello di vaniglia 1</li></ul>",
+            "procedimento": "Per preparare la cheesecake leggera iniziate predisponendo il fondo: mettete i biscotti integrali nel mixer, quindi sminuzzateli finemente. Riponete i biscotti sminuzzati in una ciotola. Ponete ora il burro a sciogliere in un pentolino; aggiungete a poco a poco il burro sciolto nella ciotola in cui avete riposto i biscotti sminuzzati amalgamando per bene il tutto fino ad ottenere un composto sabbioso.<br>Imburrate una tortiera, meglio se a cerchio apribile, del diametro di 24 cm; ritagliate un disco di carta forno dello stesso diametro del fondo della tortiera e due strisce della stessa altezza dei bordi, quindi foderate la tortiera stessa. Versate i biscotti sbriciolati nella tortiera ricoperta di carta forno e con l'aiuto di un cucchiaio compattate bene la base di biscotto. Fate raffreddare il composto in frigorifero per mezz’ora o in freezer per una decina di minuti.<br>Ora dedicatevi al ripieno: ammorbidite in acqua fredda la gelatina in fogli per 10 minuti circa, poi strizzatela bene. Intanto ponete il formaggio spalmabile in una planetaria, aggiungete il fruttosio e azionate le fruste per amalgamare gli ingredienti. Aggiungete quindi i semi della bacca di vaniglia.<br>Incorporate nel composto anche lo yogurt magro e continuate a mescolare con le fruste. Nel frattempo la gelatina in fogli si sarà ben ammorbidita. Scioglietela in un pentolino con 30 g d'acqua calda e quando si sarà totalmente sciolta incorporatela nel composto di formaggio e yogurt. Amalgamate bene tutti gli ingredienti con le fruste a mano per ottenere un composto omogeneo e cremoso.<br>A questo punto la crema è pronta, versatela sulla base di biscotto, ormai fredda e compatta. Appianate la crema in modo tale da livellarla. Riponete quindi la vostra cheesecake leggera in frigorifero per almeno 4 ore per farla rassodare e poi servitela!",
+            "tag": "Cheesecake, Yogurt, Biscotti"
+        },
+
+        {
+            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/main/assets/img/bresaola.jpg",
+            "nome": "Coni di bresaola e formaggio",
+            "livello": "Facile",
+            "panoramica": "Un fresco aperitivo da organizzare all'ultimo o improvvisi ospiti a cena? Con un pò di fantasia si possono creare dei piatti caldi o freddi davvero sfiziosi, come i coni di bresaola al formaggio! A volte bastano poche mosse per stupire i propri ospiti e far gustare gli ingredienti più semplici in maniera originale e gustosa: questi coni preparati con bresaola e farciti con formaggio fresco ed erba cipollina.",
+            "preparazione": "20 min",
+            "dosi": "4 persone",            
+            "ingredienti": "<h3>INGREDIENTI PER 8 CONI DI BRESAOLA</h3><ul><li>Bresaola 60 g</li><li>Formaggio fresco spalmabile 300 g</li><li>Erba cipollina q.b.</li><li>Pepe bianco q.b.</li></ul><h3>INGREDIENTI PER GUARNIRE</h3><ul><li>Rucola (o altra insalata) 10 g</li><li>Olio q.b.</li></ul>",
+            "procedimento": "Per preparare i coni di bresaola e formaggio per prima cosa procedete con la preparazione del ripieno dei coni. Prendete un tagliere e tagliate finemente l’erba cipollina. Poi mettete il formaggio spalmabile in una ciotola ed aggiungetevi il pepe bianco macinato. Aggiungete quindi l’erba cipollina.<br>Aiutandovi con una spatola amalgamate gli ingredienti in modo da uniformarli bene e spostate il composto in una sac-à-poche usa e getta a cui applicare una bocchetta liscia piuttosto larga. Potete aiutarvi per inserire il ripieno all'interno della sac-à-poche con una spatola e spingerlo verso il basso della sac-à-poche. Dopodichè passate alla bresaola. Predisponete le fettine di bresaola su un tagliere e richiudetele unendo le estremità in modo da mantenere un foro più piccolo in una estremità e un’apertura più larga nell’altra estremità sino a dar loro la forma di cono.<br>A questo punto prendete la sac-à-poche riempita con il composto e farcite i coni di bresaola e guarnite a piacimento con ulteriore erba cipollina tritata il composto esterno del cono. Ora prendete un piatto ed adagiatevi un letto di rucola. Disponete quindi sul letto di rucola i coni di bresaola e serviteli ai vostri commensali!",
+            "tag": "Cheesecake, Yogurt, Biscotti"
+        }
+    ]
+}

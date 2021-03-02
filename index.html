@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Zanoli Formaggi s.p.a.</title>
+        <meta charset="UTF-8">
+        <meta name="keyword" content="Zanoli, Blog, Ricette, Light, Formaggi">
+        <link rel="stylesheet" href="assets/css/main.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+    </head>
+    <body>
+        <h1>Prova le nostre ricette gustose e genuine!</h1>
+        <div class="corpo_ricette">
+            <!-- blocco anteprime corsi (le anteprime di tutti i corsi presenti sul sito, cliccando su uno si apre un pop up con tutti i dettagli) -->
+            <div id="lista_ricette">            
+            </div>
+            <!-- blocco ricetta -->
+            <div id="info_ricetta" class="info_ricetta">
+                <button class="x_button" onclick="nascondiInfoRicetta()">X</button>
+                <img id="ricetta_img">
+                <h2 id="ricetta_nome"></h2>                
+                <span id="ricetta_panoramica"></span>
+                <p><b>Difficoltà</b><br><span id="ricetta_livello"></span></p>
+                <p><b>Preparazione</b><br><span id="ricetta_preparazione"></span></p>
+                <p><b>Dosi</b><br><span id="ricetta_dosi"></span></p>
+                <p><b>Procedimento</b><br><span id="ricetta_procedimento"></span></p>             
+            </div>
+        </div>
+        <footer>
+            <p class="copyright">Copyright ©2020 Zanoli Formaggi All rights reserved</p>             
+        </footer>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</html>
