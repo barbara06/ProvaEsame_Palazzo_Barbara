@@ -1,3 +1,5 @@
+// Progetto di Palazzo Barbara
+
 let ricette = "";
 fetch('https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/master/ricette.json')
     .then(
@@ -19,7 +21,7 @@ fetch('https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/ma
 function creaListaRicette(ricette) {
 
     for (let i = 0; i < ricette.length; i++) {
-        let ricetta = '<div class="anteprima_ricette" onclick="infoRicetta(' + i + ')">' +
+        let ricetta = '<div class="anteprima_ricetta" onclick="infoRicetta(' + i + ')">' +
                         '<img id="img_ricetta' + i + '" class="img_ricetta" src="' + ricette[i].immagine + '"alt="Immagine ricetta">' +
                         '<div class="contenuti_ricetta">' +
                             '<h2 id="nome_ricetta' + i + '" class="nome_ricetta">' + ricette[i].nome + '</h2>' +
@@ -41,6 +43,7 @@ function infoRicetta(id) {
     $("#ricetta_livello").text(ricette[id].livello);
     $("#ricetta_preparazione").text(ricette[id].preparazione);
     $("#ricetta_dosi").html(ricette[id].dosi);
+    $("#ricetta_ingredienti").html(ricette[id].ingredienti);
     $("#ricetta_procedimento").html(ricette[id].procedimento);
     $("#info_ricetta").show();
 }

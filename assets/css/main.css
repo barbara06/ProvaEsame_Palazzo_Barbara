@@ -1,0 +1,101 @@
+/* Progetto di Palazzo Barbara */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: papayawhip;
+}
+
+h1 {
+    text-align: center;
+}
+
+.corpo_ricette {
+    padding-left: 20% ;
+    padding-right: 20%;
+}
+
+.anteprima_ricetta {
+    display: flex;
+    padding: 10px;
+    border: 2px solid darkgreen;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    background-color: peachpuff;
+}
+
+.anteprima_ricetta:hover {
+    transition: 0.3s;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    background-color: #cae8ca;
+}
+
+.img_ricetta {
+    padding-left: 2%;
+    width: 250px;
+}
+
+.contenuti_ricetta {
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 200%;
+}
+
+ul.specifiche_ricetta {
+    padding-left: 4%;
+    padding-right: 1%;
+    width: 100%;
+}
+
+.specifiche_ricetta li {
+    list-style: none;
+    padding-top: 15%;
+}
+
+/* scheda ricetta */
+.info_ricetta {
+    position: fixed;
+    top: 10%;
+    left: 20%;
+    right: 20%;
+    z-index: 2;
+    display: none;
+    padding: 15px;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+    font-size: 15px;
+    overflow-y: scroll;
+    height: 80%;
+}
+
+.x_button { 
+    position: absolute;
+    right: 15px;
+    border: none;
+    background-color: #cae8ca;
+    font-size: 30px;
+    color: #4CAF50;
+}
+
+#ricetta_img {
+    width: 40%;
+}
+
+#ricetta_nome {
+    text-align: center;
+    padding: 3%;
+}
+
+footer {
+    padding-left: 6%;
+    padding-top: 1%;
+}
+
+.copyright {
+    text-align: center;
+}
