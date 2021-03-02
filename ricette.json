@@ -1,7 +1,7 @@
 {
     "ricette": [
         {
-            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/main/assets/img/tartufini.jpg",
+            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/master/assets/img/tartufini.jpg",
             "nome": "Tartufini di formaggio ai quattro colori",
             "livello": "Facile",
             "panoramica": "Li conosciamo in tante versioni dolci: i tartufini al cioccolato, al caffè, al limone. Ecco una versione perfetta per il buffet salato: i tartufini di formaggio ai 4 colori! Stuzzichini gustosissimi di facile e veloce realizzazione.",
@@ -13,7 +13,7 @@
         },
 
         {
-            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/main/assets/img/cheesecake.jpg",
+            "immagine": "https://raw.githubusercontent.com/barbara06/ProvaEsame_Palazzo_Barbara/master/assets/img/cheesecake.jpg",
             "nome": "Cheesecake leggera",
             "livello": "Media",
             "panoramica": "La cheesecake leggera è una ricetta light adatto per chi vuole rimanere in forma senza rinunciare al gusto! Questa cheesecake è preparata con ingredienti a basso contenuto calorico, ha un sapore fresco ed è davvero facile da preparare. Il gusto dello yogurt, che ritroverete in altre ricette light come quella dei pancake, rende la cheesecake leggera un dessert light, digeribile e con poche calorie!",
